@@ -1,2 +1,2 @@
 Hello from add-feature1 branch
-new line from master 
+line from new_branch
