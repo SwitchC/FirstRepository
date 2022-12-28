@@ -3,3 +3,5 @@ qweqwe
 Good evening! (from branch master)
 new line
 critical bug fixed
+some new feature
+
